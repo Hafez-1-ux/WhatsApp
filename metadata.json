@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp Athkar Bot Studio - بوت أذكار واتساب",
+  "description": "لوحة تحكم تشغيلية متكاملة لبوت واتساب لبث وجدولة الأذكار والآيات القرآنية والأحاديث النبوية الشريفة في المجموعات عبر رقم هاتفك مباشرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
